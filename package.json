@@ -1,21 +1,16 @@
 {
   "name": "nextjs",
   "version": "0.0.12",
-  "description": null,
-  "keywords": [],
+  "description": "hello",
+  "keywords": ["nextjs"],
   "dependencies": {
     "next": "7.0.2",
     "react": "16.5.2",
     "react-dom": "16.5.2"
   },
-  "devDependencies": {
-    "react-scripts": "1.0.0"
-  },
   "scripts": {
     "start": "next start",
     "build": "next build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
     "dev": "next"
   }
 }
